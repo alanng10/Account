@@ -55,3 +55,5 @@ Account has park cross.
 Account has major.
 
 Account persist client access.
+
+Account has name and pass per client.
