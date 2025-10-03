@@ -57,3 +57,5 @@ Account has major.
 Account persist client access.
 
 Account has name and pass per client.
+
+Account name is onlone.
