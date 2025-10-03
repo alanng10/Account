@@ -59,3 +59,5 @@ Account persist client access.
 Account has name and pass per client.
 
 Account name is onlon.
+
+Account pass is any char list with min count 10.
