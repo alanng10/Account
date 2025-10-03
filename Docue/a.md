@@ -53,3 +53,5 @@ Account has park mark.
 Account has park cross.
 
 Account has major.
+
+Account persist client access.
